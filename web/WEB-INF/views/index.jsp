@@ -8,9 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>HotelzzZ</title>
   </head>
   <body>
-  Hello mutherfucker :D
+  HotelzzZ에 오신것을 환영합니다.
+  <a href="/login">로그인</a><a href="/join">회원가입</a>
+  <a href="/idinquiry">아이디 찾기</a><a href="/pwinquiry">비밀번호 찾기</a>
+
+
   </body>
 </html>
